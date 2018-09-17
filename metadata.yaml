@@ -1,5 +1,8 @@
 _repo: History-of-the-Royal-Regiment-of-Artillery-Vol-1-Compiled-from-the-Original-Records_52258
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52258-h/images/cover.jpg
 creator:
   author:
     agent_name: Duncan, Francis
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46746'
     url: http://www.gutenberg.org/2009/agents/46746
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52258#History-of-the-Royal-Regiment-of-Artillery-Vol-1-Compiled-from-the-Original-Records
 gutenberg_issued: '2016-06-07'
 gutenberg_type: Text
 identifiers:
